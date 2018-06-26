@@ -1,0 +1,59 @@
+neighborhood,language,NP,pct
+"Downtown, Queen Anne, Magnolia",Amharic,2.0,0.002386634844868735
+"Downtown, Queen Anne, Magnolia",Burmese,15.0,0.017899761336515514
+"Downtown, Queen Anne, Magnolia",Cantonese,6.0,0.007159904534606206
+"Downtown, Queen Anne, Magnolia",Chinese,1.0,0.0011933174224343676
+"Downtown, Queen Anne, Magnolia",Filipino,16.0,0.01909307875894988
+"Downtown, Queen Anne, Magnolia",German,1.0,0.0011933174224343676
+"Downtown, Queen Anne, Magnolia",Mandarin,5.0,0.0059665871121718375
+"Downtown, Queen Anne, Magnolia",Russian,1.0,0.0011933174224343676
+"Downtown, Queen Anne, Magnolia",Shona,1.0,0.0011933174224343676
+"Downtown, Queen Anne, Magnolia",Spanish,11.0,0.013126491646778043
+"Downtown, Queen Anne, Magnolia",Tagalog,2.0,0.002386634844868735
+"Downtown, Queen Anne, Magnolia",Vietnamese,1.0,0.0011933174224343676
+Northeast,Amharic,29.0,0.034606205250596656
+Northeast,Arabic,2.0,0.002386634844868735
+Northeast,Bengali,2.0,0.002386634844868735
+Northeast,Cantonese,9.0,0.010739856801909307
+Northeast,Chinese,35.0,0.041766109785202864
+Northeast,Japanese,3.0,0.003579952267303103
+Northeast,Korean,14.0,0.016706443914081145
+Northeast,Mandarin,2.0,0.002386634844868735
+Northeast,Punjabi,2.0,0.002386634844868735
+Northeast,Spanish,5.0,0.0059665871121718375
+Northeast,Thai,1.0,0.0011933174224343676
+Northeast,Vietnamese,22.0,0.026252983293556086
+Northwest,Amharic,1.0,0.0011933174224343676
+Northwest,Chinese,12.0,0.014319809069212411
+Northwest,Japanese,2.0,0.002386634844868735
+Northwest,Korean,2.0,0.002386634844868735
+Northwest,Lao,1.0,0.0011933174224343676
+Northwest,Tagalog,23.0,0.027446300715990454
+"Southeast, Capital Hill",Cantonese,12.0,0.014319809069212411
+"Southeast, Capital Hill",Chinese,9.0,0.010739856801909307
+"Southeast, Capital Hill",Japanese,2.0,0.002386634844868735
+"Southeast, Capital Hill",Mandarin,1.0,0.0011933174224343676
+"Southeast, Capital Hill",Oromo,5.0,0.0059665871121718375
+"Southeast, Capital Hill",Somali,4.0,0.00477326968973747
+"Southeast, Capital Hill",Swahili,10.0,0.011933174224343675
+"Southeast, Capital Hill",Tagalog,1.0,0.0011933174224343676
+"Southeast, Capital Hill",Thai,5.0,0.0059665871121718375
+"Southeast, Capital Hill",Vietnamese,20.0,0.02386634844868735
+"West, Duwamish, Beacon Hill",Amharic,36.0,0.04295942720763723
+"West, Duwamish, Beacon Hill",Cantonese,23.0,0.027446300715990454
+"West, Duwamish, Beacon Hill",Chinese,83.0,0.09904534606205251
+"West, Duwamish, Beacon Hill",Hindi,1.0,0.0011933174224343676
+"West, Duwamish, Beacon Hill",Italian,3.0,0.003579952267303103
+"West, Duwamish, Beacon Hill",Japanese,1.0,0.0011933174224343676
+"West, Duwamish, Beacon Hill",Khmer,1.0,0.0011933174224343676
+"West, Duwamish, Beacon Hill",Korean,3.0,0.003579952267303103
+"West, Duwamish, Beacon Hill",Mandarin,18.0,0.021479713603818614
+"West, Duwamish, Beacon Hill",Oromo,40.0,0.0477326968973747
+"West, Duwamish, Beacon Hill",Other Mande languages,42.0,0.050119331742243436
+"West, Duwamish, Beacon Hill",Other languages of Asia,4.0,0.00477326968973747
+"West, Duwamish, Beacon Hill",Punjabi,3.0,0.003579952267303103
+"West, Duwamish, Beacon Hill",Somali,111.0,0.1324582338902148
+"West, Duwamish, Beacon Hill",Spanish,42.0,0.050119331742243436
+"West, Duwamish, Beacon Hill",Tagalog,58.0,0.06921241050119331
+"West, Duwamish, Beacon Hill",Tigrinya,1.0,0.0011933174224343676
+"West, Duwamish, Beacon Hill",Vietnamese,70.0,0.08353221957040573

@@ -1,0 +1,26 @@
+neighborhood,race,NP,pct
+"Downtown, Queen Anne, Magnolia",American Indian alone,5.0,0.003022974607013301
+"Downtown, Queen Anne, Magnolia",Asian alone,101.0,0.06106408706166868
+"Downtown, Queen Anne, Magnolia",Black or African American alone,16.0,0.009673518742442563
+"Downtown, Queen Anne, Magnolia",Some Other Race alone,10.0,0.006045949214026602
+"Downtown, Queen Anne, Magnolia",Two or More Races,22.0,0.013301088270858524
+Northeast,Asian alone,128.0,0.0773881499395405
+Northeast,Black or African American alone,68.0,0.041112454655380895
+Northeast,Some Other Race alone,13.0,0.007859733978234583
+Northeast,Two or More Races,42.0,0.02539298669891173
+Northwest,Asian alone,31.0,0.018742442563482467
+Northwest,Black or African American alone,20.0,0.012091898428053204
+Northwest,Native Hawaiian and Other Pacific Islander alone,4.0,0.0024183796856106408
+Northwest,Some Other Race alone,3.0,0.0018137847642079807
+Northwest,Two or More Races,61.0,0.03688029020556227
+"Southeast, Capital Hill",American Indian alone,1.0,0.0006045949214026602
+"Southeast, Capital Hill",Asian alone,58.0,0.03506650544135429
+"Southeast, Capital Hill",Black or African American alone,133.0,0.0804111245465538
+"Southeast, Capital Hill",Native Hawaiian and Other Pacific Islander alone,25.0,0.015114873035066506
+"Southeast, Capital Hill",Two or More Races,71.0,0.042926239419588876
+"West, Duwamish, Beacon Hill",American Indian alone,1.0,0.0006045949214026602
+"West, Duwamish, Beacon Hill","American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",1.0,0.0006045949214026602
+"West, Duwamish, Beacon Hill",Asian alone,317.0,0.19165659008464328
+"West, Duwamish, Beacon Hill",Black or African American alone,378.0,0.22853688029020555
+"West, Duwamish, Beacon Hill",Some Other Race alone,46.0,0.02781136638452237
+"West, Duwamish, Beacon Hill",Two or More Races,99.0,0.05985489721886336
