@@ -1,0 +1,193 @@
+Category,Code,Description
+LANP,1000,Jamaican Creole English
+LANP,1025,Other English-based Creole languages
+LANP,1055,Haitian
+LANP,1069,Kabuverdianu
+LANP,1110,German
+LANP,1120,Swiss German
+LANP,1125,Pennsylvania German
+LANP,1130,Yiddish
+LANP,1132,Dutch
+LANP,1134,Afrikaans
+LANP,1140,Swedish
+LANP,1141,Danish
+LANP,1142,Norwegian
+LANP,1155,Italian
+LANP,1170,French
+LANP,1175,Cajun French
+LANP,1200,Spanish
+LANP,1210,Portuguese
+LANP,1220,Romanian
+LANP,1231,Irish
+LANP,1235,Greek
+LANP,1242,Albanian
+LANP,1250,Russian
+LANP,1260,Ukrainian
+LANP,1262,Czech
+LANP,1263,Slovak
+LANP,1270,Polish
+LANP,1273,Bulgarian
+LANP,1274,Macedonian
+LANP,1275,Serbocroatian
+LANP,1276,Bosnian
+LANP,1277,Croatian
+LANP,1278,Serbian
+LANP,1281,Lithuanian
+LANP,1283,Latvian
+LANP,1288,Armenian
+LANP,1290,Farsi
+LANP,1292,Dari
+LANP,1315,Kurdish
+LANP,1327,Pashto
+LANP,1340,India N
+LANP,1350,Hindi
+LANP,1360,Urdu
+LANP,1380,Bengali
+LANP,1420,Punjabi
+LANP,1435,Konkani
+LANP,1440,Marathi
+LANP,1450,Gujarati
+LANP,1500,Nepali
+LANP,1525,Pakistan N
+LANP,1530,Sinhala
+LANP,1540,Other Indo-Iranian languages
+LANP,1564,Other Indo-European languages
+LANP,1565,Finnish
+LANP,1582,Hungarian
+LANP,1675,Turkish
+LANP,1690,Mongolian
+LANP,1730,Telugu
+LANP,1737,Kannada
+LANP,1750,Malayalam
+LANP,1765,Tamil
+LANP,1900,Khmer
+LANP,1960,Vietnamese
+LANP,1970,Chinese
+LANP,2000,Mandarin
+LANP,2030,Min Nan Chinese
+LANP,2050,Cantonese
+LANP,2100,Tibetan
+LANP,2160,Burmese
+LANP,2270,Chin languages
+LANP,2350,Karen languages
+LANP,2430,Thai
+LANP,2475,Lao
+LANP,2525,Iu Mien
+LANP,2535,Hmong
+LANP,2560,Japanese
+LANP,2575,Korean
+LANP,2715,Malay
+LANP,2770,Indonesian
+LANP,2850,Other languages of Asia
+LANP,2910,Filipino
+LANP,2920,Tagalog
+LANP,2950,Cebuano
+LANP,3150,Ilocano
+LANP,3190,Other Philippine languages
+LANP,3220,Chamorro
+LANP,3270,Marshallese
+LANP,3350,Chuukese
+LANP,3420,Samoan
+LANP,3500,Tongan
+LANP,3570,Hawaiian
+LANP,3600,Other Eastern Malayo-Polynesian languages
+LANP,4500,Arabic
+LANP,4545,Hebrew
+LANP,4560,Assyrian Neo-Aramaic
+LANP,4565,Chaldean Neo-Aramaic
+LANP,4590,Amharic
+LANP,4640,Tigrinya
+LANP,4830,Oromo
+LANP,4840,Somali
+LANP,4880,Other Afro-Asiatic languages
+LANP,4900,Nilo-Saharan languages
+LANP,5150,Swahili
+LANP,5345,Ganda
+LANP,5525,Shona
+LANP,5645,Other Bantu languages
+LANP,5845,Manding languages
+LANP,5900,Other Mande languages
+LANP,5940,Fulah
+LANP,5950,Wolof
+LANP,6120,Akan (incl
+LANP,6205,Ga
+LANP,6230,Gbe languages
+LANP,6290,Yoruba
+LANP,6300,Edoid languages
+LANP,6370,Igbo
+LANP,6500,Other Niger-Congo languages
+LANP,6795,Other languages of Africa
+LANP,6800,Aleut languages
+LANP,6839,Ojibwa
+LANP,6930,Apache languages
+LANP,6933,Navajo
+LANP,6936,Kiowa-Tanoan languages
+LANP,7019,Dakota languages
+LANP,7032,Muskogean languages
+LANP,7039,Keres
+LANP,7050,Cherokee
+LANP,7059,Zuni
+LANP,7060,Uto-Aztecan languages
+LANP,7124,Other Native North American languages
+LANP,7300,Other Central and South American languages
+LANP,9999,Other and unspecified languages
+HISP,1,Not Spanish/Hispanic/Latino
+HISP,2,Mexican
+HISP,3,Puerto Rican
+HISP,4,Cuban
+HISP,5,Dominican
+HISP,6,Costa Rican
+HISP,7,Guatemalan
+HISP,8,Honduran
+HISP,9,Nicaraguan
+HISP,10,Panamanian
+HISP,11,Salvadoran
+HISP,12,Other Central American
+HISP,13,Argentinean
+HISP,14,Bolivian
+HISP,15,Chilean
+HISP,16,Colombian
+HISP,17,Ecuadorian
+HISP,18,Paraguayan
+HISP,19,Peruvian
+HISP,20,Uruguayan
+HISP,21,Venezuelan
+HISP,22,Other South American
+HISP,23,Spaniard
+HISP,24,All Other Spanish/Hispanic/Latino
+HINCP,0,No household income
+HINCP,-59999,"Loss of $59,999 or more"
+HINCP,-59998,"Loss of $1 to $59,998"
+HINCP,1,$1 or Break even
+HINCP,2,Total household income in dollars (Components are rounded)
+JWRIP,1,Drove alone
+JWRIP,2,In 2-person carpool
+JWRIP,3,In 3-person carpool
+JWRIP,4,In 4-person carpool
+JWRIP,5,In 5-person carpool
+JWRIP,6,In 6-person carpool
+JWRIP,7,In 7-person carpool
+JWRIP,8,In 8-person carpool
+JWRIP,9,In 9-person carpool
+JWRIP,10,In 10-person or more carpool (Top-coded)
+JWTR,1,"Car, truck, or van"
+JWTR,2,Bus or trolley bus
+JWTR,3,Streetcar or trolley car (carro publico in Puerto Rico)
+JWTR,4,Subway or elevated
+JWTR,5,Railroad
+JWTR,6,Ferryboat
+JWTR,7,Taxicab
+JWTR,8,Motorcycle
+JWTR,9,Bicycle
+JWTR,10,Walked
+JWTR,11,Worked at home
+JWTR,12,Other method
+RAC1P,1,White alone
+RAC1P,2,Black or African American alone
+RAC1P,3,American Indian alone
+RAC1P,4,Alaska Native alone
+RAC1P,5,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races"
+RAC1P,6,Asian alone
+RAC1P,7,Native Hawaiian and Other Pacific Islander alone
+RAC1P,8,Some Other Race alone
+RAC1P,9,Two or More Races
