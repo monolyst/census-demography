@@ -1,8 +1,8 @@
-race,NP,pct
-American Indian alone,7.0,0.004232164449818622
-"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",1.0,0.0006045949214026602
-Asian alone,635.0,0.38391777509068925
-Black or African American alone,615.0,0.37182587666263606
-Native Hawaiian and Other Pacific Islander alone,29.0,0.017533252720677146
-Some Other Race alone,72.0,0.04353083434099154
-Two or More Races,295.0,0.17835550181378476
+race,PWGTP,pct
+American Indian alone,461,0.005835886269843279
+"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",68,0.0008608248727751475
+Asian alone,30583,0.38715598653062255
+Black or African American alone,25406,0.3216193634959617
+Native Hawaiian and Other Pacific Islander alone,1725,0.021837101552016607
+Some Other Race alone,4662,0.05901714054231967
+Two or More Races,16089,0.203673696736461
